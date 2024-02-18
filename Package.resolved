@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jinhongw/PlayingCard.git",
       "state" : {
-        "revision" : "632eee16b0b4d7e66208a5ce5c3d81f95698efbf",
-        "version" : "1.0.1"
+        "revision" : "e6204bf6594290a1b52e55741a15cf935c10fa4d",
+        "version" : "1.0.2"
       }
     }
   ],

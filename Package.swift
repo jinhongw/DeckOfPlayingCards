@@ -13,7 +13,7 @@ let package = Package(
     ),
   ],
   dependencies: [
-    .package(url: "https://github.com/jinhongw/PlayingCard.git", from: "1.0.1"),
+    .package(url: "https://github.com/jinhongw/PlayingCard.git", from: "1.0.2"),
     .package(url: "https://github.com/jinhongw/FisherYates.git", from: "1.0.1"),
   ],
   targets: [
