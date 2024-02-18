@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "fisheryates",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jinhongw/FisherYates.git",
+      "state" : {
+        "revision" : "5b7f32866af1ea1c8bbdc926c8aa38f1f8a53cf4",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "playingcard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jinhongw/PlayingCard.git",
+      "state" : {
+        "revision" : "632eee16b0b4d7e66208a5ce5c3d81f95698efbf",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
